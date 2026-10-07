@@ -241,7 +241,7 @@ BASE_URL = f"https://api.telegram.org/bot{TOKEN}"
 FILE_URL = f"https://api.telegram.org/file/bot{TOKEN}/"
 
 OWNER_ID = 7069247095
-BOT_USERNAME = ""
+BOT_USERNAME = "@Anox_freesms_otp_bot"
 
 # ==========================================
 # Render Health-Check
