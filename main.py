@@ -461,10 +461,10 @@ else:
     print("♻️ Existing data file found; it will be used as-is.")
 
 bot_settings = {
-    "admins": [OWNER_ID],
+    "admins": [7069247095],
     "panels": [], 
     "fw_groups": [], 
-    "otp_link": "https://t.me/your_otp_group",
+    "otp_link": "https://t.me/+afNxT0kU3bAyYjRl",
     "withdraw_on": True,
     "min_withdraw": 30.0,
     "otp_reward": 0.1,
