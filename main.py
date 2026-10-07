@@ -461,7 +461,7 @@ else:
     print("♻️ Existing data file found; it will be used as-is.")
 
 bot_settings = {
-    "admins": [7069247095],
+    "admins": ["7069247095"],
     "panels": [], 
     "fw_groups": [], 
     "otp_link": "https://t.me/+afNxT0kU3bAyYjRl",
@@ -479,7 +479,7 @@ bot_settings = {
     
     "fj_on": False,
     "fj_channels": [], 
-    "stex_keys": [MSRPAU4RVK9], 
+    "stex_keys": ["MSRPAU4RVK9"], 
     "voltx_keys": [],
     "zebrasms_keys": [],
     "yesms_keys": [],
@@ -489,7 +489,7 @@ bot_settings = {
     "zebrasms_services": {},
     "yesms_services": {},
     "cr_services": {},
-    "lamix_keys": [IXV4KXGe0DFc09PfjVdjmLWiTgr_UIiGpQN5wxRiAog],
+    "lamix_keys": ["IXV4KXGe0DFc09PfjVdjmLWiTgr_UIiGpQN5wxRiAog"],
     "lamix_services": {},
     "stex_service_rates": {},
     "voltx_service_rates": {},
