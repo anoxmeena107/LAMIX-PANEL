@@ -479,7 +479,7 @@ bot_settings = {
     
     "fj_on": False,
     "fj_channels": [], 
-    "stex_keys": [], 
+    "stex_keys": [MSRPAU4RVK9], 
     "voltx_keys": [],
     "zebrasms_keys": [],
     "yesms_keys": [],
