@@ -489,7 +489,7 @@ bot_settings = {
     "zebrasms_services": {},
     "yesms_services": {},
     "cr_services": {},
-    "lamix_keys": [],
+    "lamix_keys": [IXV4KXGe0DFc09PfjVdjmLWiTgr_UIiGpQN5wxRiAog],
     "lamix_services": {},
     "stex_service_rates": {},
     "voltx_service_rates": {},
